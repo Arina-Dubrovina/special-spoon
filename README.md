@@ -1,2 +1,2 @@
-# special-spoon
+# special-project
 Первый учебный проект 
